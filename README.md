@@ -17,7 +17,7 @@ A **Retrieval-Augmented Generation (RAG) Chatbot** built with `LangChain`, `FAIS
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/SHIGINVP/RAG_chatbot)
+git clone https://github.com/SHIGINVP/RAG_chatbot
 cd YOUR_REPOSITORY
 ```
 
